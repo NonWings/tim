@@ -13,11 +13,11 @@
         <h2>Daftar File</h2>
         <ul class="file-list">
             <li><a href="htdt">File 1</a></li>
-            <li><a href="/path/to/file2.pdf">File 2</a></li>
-            <li><a href="/path/to/file3.pdf">File 3</a></li>
-            <li><a href="/path/to/file4.pdf">File 4</a></li>
-            <li><a href="/path/to/file5.pdf">File 5</a></li>
-            <li><a href="/path/to/file6.pdf">File 6</a></li>
+            <li><a href="">File 2</a></li>
+            <li><a href="">File 3</a></li>
+            <li><a href="">File 4</a></li>
+            <li><a href="">File 5</a></li>
+            <li><a href="">File 6</a></li>
         </ul>
 
         <h2>Unggah File</h2>
